@@ -23,8 +23,7 @@
 
 ## :envelope_with_arrow: <a name="my-custom-anchor-point">Contact information : </a>
 
-[LinkedIn](https://www.linkedin.com/in/vishrutha-ravi-1974521b2/) or
-[Email](vishruthar19@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vishrutha-ravi-1974521b2/)
 
 
 > "The only way to do great work is to love what you do." – Steve Jobs
