@@ -1,4 +1,4 @@
-## **Hello👋, I'm Vishrutha Ravi**
+# **Hello👋, I'm Vishrutha Ravi**
 
 ### I’m pursuing Master’s in Computer Science at George Washington University.
 
