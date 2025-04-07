@@ -3,10 +3,6 @@
 ### I’m pursuing Master’s in Computer Science at George Washington University.
 
 
-## :hammer_and_wrench: <a name="my-custom-anchor-point">I'm currently working on : </a>
-
-- Creating a website that integrates weather information and a to-do list feature.
-
 ## :dart: <a name="my-custom-anchor-point">I'm currently learning : </a>
 
 - AWS
