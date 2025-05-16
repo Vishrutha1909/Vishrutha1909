@@ -2,12 +2,6 @@
 
 ### I’m pursuing Master’s in Computer Science at George Washington University.
 
-
-## :dart: <a name="my-custom-anchor-point">I'm currently learning : </a>
-
-- AWS
-- Machine Learning
-
 ## :jigsaw: <a name="my-custom-anchor-point">Skills & Technologies : </a>
 
 - Git
