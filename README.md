@@ -2,21 +2,12 @@
 
 ### I’m pursuing Master’s in Computer Science at George Washington University.
 
-## :jigsaw: <a name="my-custom-anchor-point">Skills & Technologies : </a>
-
-- Git
-- VSCode
-- Postman
-- Python
-- Postgres
-- MERN Stack (MongoDB, Express, React, Node.js)
 
 ## :envelope_with_arrow: <a name="my-custom-anchor-point">Contact information : </a>
 
 [LinkedIn](https://www.linkedin.com/in/vishrutha-ravi-1974521b2/)
 
 
-> "The only way to do great work is to love what you do." – Steve Jobs
 
 
 
