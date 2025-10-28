@@ -1,6 +1,6 @@
 # **Hello👋, I'm Vishrutha Ravi**
 
-### I’m pursuing Master’s in Computer Science at George Washington University.
+### I’m pursuing Master’s in Computer Science at George Washington University
 
 
 ## :envelope_with_arrow: <a name="my-custom-anchor-point">Contact information : </a>
